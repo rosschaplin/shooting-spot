@@ -4,13 +4,13 @@
 
 Shooting Spot is a 
 
-![Gameplay] (https://raw.githubusercontent.com/rosschaplin/shooting-spot/main/SS%20Images/SS%20Game%20Screen.png)
+![Play Screen] (https://raw.githubusercontent.com/rosschaplin/shooting-spot/main/SS%20Images/SS%20Game%20Screen.png)
 
 ## What are the controls?
 
 ## How long did it take?
 
-![Gameover UI] (https://raw.githubusercontent.com/rosschaplin/shooting-spot/main/SS%20Images/SS%20Start%20Screen.png)
+![Title Screen] (https://raw.githubusercontent.com/rosschaplin/shooting-spot/main/SS%20Images/SS%20Start%20Screen.png)
 
 ## What did I learn?
 
